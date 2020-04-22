@@ -1,9 +1,5 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-	
-</head>
-<body>
 <!-- Navigation -->
 <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	<div class="container-fluid">
